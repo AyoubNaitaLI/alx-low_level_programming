@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
-* main - a prigram that print using printf
+* main - Entry point
 * Return :Always 0 (success)
 */
 int main(void)
